@@ -3,17 +3,11 @@ import PlayerInfo from '../PlayerInfo/PlayerInfo';
 import Players from '../Players/Players';
 
 const Home = () => {
-    const[totalRun,setTotalRun]=useState('');
-    const handleInfoCart=(run)=>{
-        const previousRun=localStorage.getItem('playersRun');
-        if(previousRun){
-        const updatedRun=parseInt(previousRun)+parseInt(run);
-        localStorage.setItem('playersRun',updatedRun);
-        setTotalRun(updatedRun);
-        }
-        else{
-        localStorage.setItem('playersRun',run);
-        }
+    const[playersArray,setPlayersArray]=useState({});
+    const handleInfoCart=(name,match,run,id)=>{
+        const singlePlayer={name,match,run,id};
+            localStorage.setItem('player',JSON.stringify(singlePlayer));
+            setPlayersArray(singlePlayer);
     }
     return (
         <div className='grid grid-cols-4'>
@@ -21,7 +15,7 @@ const Home = () => {
             <Players handleInfoCart={handleInfoCart}></Players>
             </div>
             <div className='col-span-1'>
-            <PlayerInfo totalRun={totalRun}></PlayerInfo>
+            <PlayerInfo playersArray={playersArray}></PlayerInfo>
             </div>
         </div>
     );
