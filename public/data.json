@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "age": 34,
+    "name": "Tamim Iqbal",
+    "BirthPlace": "Chittagong",
+    "ODImatch": 237,
+    "runs": 8210,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg"
+  },
+  {
+    "id": 2,
+    "age": 28,
+    "name": "Litton Das",
+    "BirthPlace": "Dinajpur",
+    "ODImatch": 66,
+    "runs": 2065,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244922/litton-das.jpg"
+  },
+  {
+    "id": 3,
+    "age": 36,
+    "name": "Shakib Al Hasan",
+    "BirthPlace": "Magura",
+    "ODImatch": 230,
+    "runs": 7086,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244928/shakib-al-hasan.jpg"
+  },
+  {
+    "id": 4,
+    "age": 35,
+    "name": "Mushfiqur Rahim",
+    "BirthPlace": "Bogra",
+    "ODImatch": 245,
+    "runs": 7045,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg"
+  },
+  {
+    "id": 5,
+    "age": 39,
+    "name": "Mashrafe Mortaza",
+    "BirthPlace": "Norail",
+    "ODImatch": 220,
+    "runs": 8210,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg"
+  },
+  {
+    "id": 6,
+    "age": 37,
+    "name": "Mahmudullah",
+    "BirthPlace": "Mymensingh",
+    "ODImatch": 218,
+    "runs": 4950,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg"
+  },
+  {
+    "id": 7,
+    "age": 30,
+    "name": "Soumya Sarkar",
+    "BirthPlace": "Satkhira",
+    "ODImatch": 61,
+    "runs": 1768,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244930/soumya-sarkar.jpg"
+  },
+  {
+    "id": 8,
+    "age": 25,
+    "name": "Mehidy Hasan Miraz",
+    "BirthPlace": "Khulna",
+    "ODImatch": 71,
+    "runs": 775,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244919/mehidy-hasan-miraz.jpg"
+  },
+  {
+    "id": 9,
+    "age": 26,
+    "name": "Mohammad Saifuddin",
+    "BirthPlace": "Feni",
+    "ODImatch": 29,
+    "runs": 362,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170907/mohammad-saifuddin.jpg"
+  },
+  {
+    "id": 10,
+    "age": 27,
+    "name": "Mustafizur Rahman",
+    "BirthPlace": "Satkhira",
+    "ODImatch": 86,
+    "runs": 106,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244924/mustafizur-rahman.jpg"
+  },
+  {
+    "id": 11,
+    "age": 33,
+    "name": "Rubel Hossain",
+    "BirthPlace": "Bagerhat",
+    "ODImatch": 104,
+    "runs": 144,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170922/rubel-hossain.jpg"
+  }
+]
