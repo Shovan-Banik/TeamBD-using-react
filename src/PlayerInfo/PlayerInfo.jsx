@@ -15,8 +15,8 @@ const PlayerInfo = ({playersArray}) => {
             <h1 className='text-2xl font-semibold'>Players Info Cart</h1>
             <hr className='w-1/2 mx-auto border-2 border-blue-500'/>
             <p>Player Name: {storedData.name}</p>
-            <p>player Matches: {storedData.match}</p>
-            <p>player runs: {storedData.run}</p>
+            <p>Play ODI Matches: {storedData.match}</p>
+            <p>Total ODI runs: {storedData.run}</p>
         </div>
     );
 };
